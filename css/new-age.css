@@ -84,7 +84,7 @@ section h2 {
 #mainNav .navbar-toggler {
   font-size: 12px;
   padding: 8px 10px;
-  color: #222222;
+  color: #FFA07A;
 }
 
 #mainNav .navbar-nav > li > a {
@@ -105,7 +105,7 @@ section h2 {
 
 #mainNav .navbar-nav > li > a,
 #mainNav .navbar-nav > li > a:focus {
-  color: #222222;
+  color: #FFA07A;
 }
 
 #mainNav .navbar-nav > li > a:hover,
@@ -137,14 +137,14 @@ section h2 {
     background-color: white;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #222222;
+    color: #FFA07A;
   }
   #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
     color: #fdcc52;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus {
-    color: #222222;
+    color: #FFA07A;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
@@ -377,7 +377,7 @@ footer {
   padding: 25px 0;
   text-align: center;
   color: rgba(255, 255, 255, 0.3);
-  background-color: #222222;
+  background-color: #FFA07A
 }
 
 footer p {
